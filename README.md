@@ -1,5 +1,5 @@
 # Bike-Sales-SQL-Project
-Overview
+Overview:
 This project aims to analyze bike sales data to uncover revenue trends, identify anomalies, and provide actionable insights to optimize revenue generation strategies. By leveraging advanced SQL queries and Power BI for data visualization, the project contributes to improved business performance through data-driven analysis.
 
 Achievements:
